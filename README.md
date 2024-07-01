@@ -1,16 +1,18 @@
-# maze_puzzle
+# 🔥🔥Maze Generator [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
 
-A new Flutter project.
+Flutter Representation of a Maze Generator.
 
-## Getting Started
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
 
-This project is a starting point for a Flutter application.
+## GIFs
+<p>
+<img src="ss/1.gif" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤓 Author(s)
+**Charly Keleb Charles042** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
